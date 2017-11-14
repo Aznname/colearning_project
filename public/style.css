@@ -46,16 +46,21 @@
     
 }
 .course-goals-list {
-    margin: 3rem;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     list-style-type: none;
+    border: 1px solid red;
 
 }
 .course-goals-list li {
   margin: 0 10px;
-  border: 0;
+  padding: 0;
+  border: 1px dashed green;
+  display: block;
   float: left;
+  width: 20%;
 }
+
 .course-goals-list h3 {
   margin: 0;
   padding: 0;
@@ -77,13 +82,15 @@
 .colearners-headline {
     color: #444444;
     font-size: 28px;
-    
+    float: none;
 }
 .colearners-name {
-    
+    margin: 10rem;
+    padding: 2rem;
+    list-style-type: none;
 }
 
-.colearners-name li{
+.colearners-name-li{
     color: #444444;
     font-size: 22px;
 }
