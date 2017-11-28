@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aznname/colearning_project/issues"
   },
-  "homepage": "https://github.com/Aznname/colearning_project#readme"
+  "homepage": "https://github.com/Aznname/colearning_project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
